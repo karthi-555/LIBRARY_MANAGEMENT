@@ -4,11 +4,11 @@ A web app for managing all the activities of a library like managing members and
 ## Index ✏️
 
 - [Library Management System 📚](#library-management-system-)
-- [Index ✏️](#index-️)
+- [Index ](#index-️)
 - [Features Of LMS 🚀](#features-of-lcms-)
-- [Setup 🔥](#setup-)
-  - [Frontend Setup 🍧](#frontend-setup-)
-  - [Backend Setup 🍿](#backend-setup-)
+- [Setup ](#setup-)
+  - [Frontend Setup ](#frontend-setup-)
+  - [Backend Setup ](#backend-setup-)
 
 ## Features Of LMS 
 
