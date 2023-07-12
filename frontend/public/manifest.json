@@ -18,8 +18,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://library-management-coral.vercel.app",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#666666"
+  "background_color": "#ffffff"
 }
