@@ -17,7 +17,7 @@ const port = process.env.PORT || 4000;
 app.use(express.json());
 app.use(cors(
 	{
-		origin:["https://library-management-coral.vercel.app"],
+		origin:["https://library-management-frontend-three.vercel.app"],
 		methods:["POST","GET"],
 		credentials:true
 	}
