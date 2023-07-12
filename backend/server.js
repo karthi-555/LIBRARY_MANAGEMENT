@@ -15,7 +15,14 @@ const port = process.env.PORT || 4000;
 
 /* Middlewares */
 app.use(express.json());
-app.use(cors());
+app.use(cors(
+	{
+		origin:["https://deploy.mernf"],
+		methods:["POST","GET"],
+		credentials:true
+	}
+	
+	));
 
 /* API Routes */
 app.use("/api/auth", authRoutes);
