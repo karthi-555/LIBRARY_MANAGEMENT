@@ -33,7 +33,7 @@ app.use("/api/transactions", transactionRoutes);
 app.use("/api/categories", categoryRoutes);
 
 /* MongoDB connection */
-mongoose.connect("mongodb+srv://karthickthyagaraj:karthi@55535@cluster0.mpbbnww.mongodb.net/?retryWrites=true&w=majority",
+mongoose.connect("Enter your MONGO_URL",
   {
     useCreateIndex: true,
     useNewUrlParser: true,
